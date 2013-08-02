@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:5d4b2b371d6f252a36dfb03cc3a3d376$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="bgDetailFooter" x="2" y="217" width="640" height="213"/>
+    <SubTexture name="bgPickerList" x="550" y="1020" width="382" height="82"/>
+    <SubTexture name="bgPickerList_List" x="550" y="936" width="382" height="82"/>
+    <SubTexture name="btnArrow" x="914" y="314" width="88" height="88"/>
+    <SubTexture name="btnBackArrow" x="644" y="404" width="79" height="79"/>
+    <SubTexture name="btnClose" x="824" y="314" width="88" height="88"/>
+    <SubTexture name="btnCompleteOrder" x="2" y="1369" width="546" height="188"/>
+    <SubTexture name="btnInfo" x="734" y="314" width="88" height="88"/>
+    <SubTexture name="btnSuggest" x="644" y="314" width="88" height="88"/>
+    <SubTexture name="btnSuggestSubmit" x="2" y="432" width="640" height="180"/>
+    <SubTexture name="detailHeader" x="2" y="826" width="640" height="104"/>
+    <SubTexture name="homeFooter" x="2" y="2" width="640" height="213"/>
+    <SubTexture name="homeHeader" x="2" y="720" width="640" height="104"/>
+    <SubTexture name="icnItemArrow" x="983" y="2" width="23" height="38"/>
+    <SubTexture name="listHeader" x="2" y="614" width="640" height="104"/>
+    <SubTexture name="modalSuccess" x="2" y="932" width="546" height="435"/>
+    <SubTexture name="orderHairline" x="550" y="932" width="390" height="2"/>
+    <SubTexture name="overlayIngred" x="644" y="2" width="337" height="310"/>
+</TextureAtlas>
